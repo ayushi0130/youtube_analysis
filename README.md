@@ -93,7 +93,8 @@ explore the data and create visualizations using the provided vscode.
    <img width="584" alt="Screen Shot 2024-06-25 at 20 22 36" src="https://github.com/ayushi0130/youtube_analysis/assets/128896031/fd87253a-a589-4281-b4d6-3f0815436a5d">
 
 6. Analysing trending video on youtube:
-   <img width="755" alt="Screen Shot 2024-06-25 at 20 23 26" src="https://github.com/ayushi0130/youtube_analysis/assets/128896031/35f28944-c35a-4002-b3ee-0773d24c011b">
+   <img width="1414" alt="Screen Shot 2024-06-25 at 20 23 48" src="https://github.com/ayushi0130/youtube_analysis/assets/128896031/2954cf91-764f-45cd-8c72-cb69748f109e">
 
 7. do punctuations in title and tag have an impect on views, likes, dislikes:
-   <img width="1414" alt="Screen Shot 2024-06-25 at 20 23 48" src="https://github.com/ayushi0130/youtube_analysis/assets/128896031/ee0fc502-4e55-4d4b-8962-567ca7e443b5">
+   <img width="755" alt="Screen Shot 2024-06-25 at 20 23 26" src="https://github.com/ayushi0130/youtube_analysis/assets/128896031/76683085-a771-48e6-bf39-38fa018221cf">
+
